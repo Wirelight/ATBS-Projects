@@ -22,6 +22,9 @@
 * Chapter 16
 * Chapter 17
 * Chapter 18
+  * [Random Chore Assignment Emailer](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2018/randomChoreEmailer.py)
+  * [Umbrella Reminder](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2018/umbrellaReminder.py)
+  * [Text Myself](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2018/textmyself.py)
 * Chapter 19
   * [Extending and Fixing the Chapter Project Programs](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2019/resizeAndAddLogo.py)
   * [Identifying Photo Folders on the Hard Drive](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2019/identifyPhotoFolders.py)
