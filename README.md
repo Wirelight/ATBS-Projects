@@ -30,3 +30,7 @@
   * [Identifying Photo Folders on the Hard Drive](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2019/identifyPhotoFolders.py)
   * [Custom Seating Cards](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2019/customSeatingCards.py)
 * Chapter 20
+  * [Automatic Form Filler](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2020/formFiller.py)
+  * [Looking Busy](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2020/lookingBusy.py)
+  * [Using the Clipboard to Read a Text Field](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2020/useClipboardToReadText.py)
+  * [Instant Messenger Bot](https://github.com/Wirelight/ATBS-Projects/blob/main/Chapter%2020/messengerBot.py)
